@@ -2,7 +2,7 @@ package max;
 import java.util.*;
 public class ATM {
 	public static void main(String args[]) {
-		int bal=5000,depo,with;
+		int bal=15000,depo,with;
 		Scanner src=new Scanner(System.in);
 		System.out.println("Welcome to ATM");
 		System.out.println("1.withdraw");
